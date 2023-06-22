@@ -1,20 +1,18 @@
-<h2 align="left">Ladies And Gentlemen</h2>
+<h2 align="left">About me</h2>
 <div>
 
-- 👨‍🏫 I’m currently working at <a href="http://araquari.ifc.edu.br">IFC</a>
-- 🎓 I’m almost finishing my PhD in Information Systems (IS) @<a href="https://www.uminho.pt/PT">UMinho</a> @<a href="http://www.dsi.uminho.pt/">DSI</a>
-- 🏭 I’m looking to collaborate on <a href="https://fabricadesoftware.ifc.edu.br/pt-br/">Fábrica de Software</a>
-- 📫 How to reach me: @ldmfabio (<a href="https://about.me/ldmfabio">every social media</a>)
-- 👨‍🔬 Professor: Programação I | Fundamentos de Sistemas de Informação
-
+- 👨‍🏫 I’m currently studing at <a href="http://araquari.ifc.edu.br">IFC</a>
+- 🎓 i currently have completed elementary school 
+- 🏭 I’m looking
+- 📫 How to reach me:@matheus.hodecker (<a href="habout.me/hodecker">every social media</a>)
 </div>
 
 ##
 
 <div align="center">
-  <a href="https://github.com/ldmfabio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ldmfabio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldmfabio&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/matheushodecker">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheushodecker&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushodecker&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
