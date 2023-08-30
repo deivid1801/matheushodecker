@@ -5,7 +5,7 @@
 - 🎓 i currently have completed elementary school 
 - 🏭 I’m looking
 - 📫 How to reach me:@matheus.hodecker (<a href="habout.me/hodecker" style="">every social media</a>)
-<a href="instagram.com/hodecker.matheus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https:instagram.com/hodecker.matheus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 ##
