@@ -4,8 +4,9 @@
 - 👨‍🏫 I’m currently studing at <a href="http://araquari.ifc.edu.br">IFC</a>
 - 🎓 i currently have completed elementary school 
 - 🏭 I’m looking
-- 📫 How to reach me:@matheus.hodecker (<a href="habout.me/hodecker">every social media</a>)
-<a href="instagram.com/hodecker.matheus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+- 📫 How to reach me:@matheus.hodecker (<a href="habout.me/hodecker" style="">every social media</a>)
+<a href="instagram.com/hodecker.matheus/" target="_blank"><img alt="GitHub Gist last commit" src="https://img.shields.io/github/gist/last-commit/:gistId">
+</a>
 </div>
 
 ##
